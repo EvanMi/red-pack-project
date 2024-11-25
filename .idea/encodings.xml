@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/red-pack-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-pay/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-read/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-read/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-sms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-worker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-worker/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-write/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/red-pack-write/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple-auth/simple-auth-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple-auth/simple-auth-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple-auth/simple-auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple-auth/simple-auth-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
